@@ -1,0 +1,20 @@
+{
+  "name": "node-sqlight3",
+  "version": "1.0.0",
+  "description": "- Node.js ：sqlight3 を使ってみる",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install sqlite3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvtvtv9810/node-sqlight3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvtvtv9810/node-sqlight3/issues"
+  },
+  "homepage": "https://github.com/tvtvtv9810/node-sqlight3#readme"
+}
