@@ -2,6 +2,7 @@
   "name": "node-sqlight3",
   "version": "1.0.0",
   "description": "- Node.js ：sqlight3 を使ってみる",
+  "type": "module",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
